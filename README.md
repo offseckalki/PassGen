@@ -44,7 +44,12 @@ This is a simple Password Manager application implemented in Python with a graph
 
 ## Screenshots
 
-![Password Generator Screenshot](https://raw.githubusercontent.com/offseckalki/PassGen/main/ScreenShots/1.png)
+![Password Generator Screenshot 1](https://raw.githubusercontent.com/offseckalki/PassGen/main/ScreenShots/1.png)
+
+
+![Password Generator Screenshot 2](https://raw.githubusercontent.com/offseckalki/PassGen/main/ScreenShots/2.png)
+
+![Password Generator Screenshot 3](https://raw.githubusercontent.com/offseckalki/PassGen/main/ScreenShots/3.png)
 
 ## Contributing
 
