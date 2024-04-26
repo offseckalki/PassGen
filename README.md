@@ -44,8 +44,7 @@ This is a simple Password Manager application implemented in Python with a graph
 
 ## Screenshots
 
-([https://github.com/offseckalki/PassGen/blob/main/ScreenShots/1.png?raw=true](https://raw.githubusercontent.com/offseckalki/PassGen/main/ScreenShots/1.png))
--->
+!(https://raw.githubusercontent.com/offseckalki/PassGen/main/ScreenShots/1.png)
 
 ## Contributing
 
